@@ -1,0 +1,5 @@
+bin/
+obj/
+lockbox.vault
+*.user
+.vs/
